@@ -9,6 +9,7 @@ function validate(){
 	var Lname = document.getElementById("lastName").value;
 	var mail = document.getElementById("email").value;
 	var phone = document.getElementById("telephone").value;
+	var password = document.getElementById("password").value;
 	
    
 
