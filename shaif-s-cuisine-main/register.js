@@ -74,5 +74,4 @@ function validate(){
 		alert('thanks '+Fname+" "+Lname+' for join to us');
 		window.location.href='index.html';
 	}
-	return check;
 }
